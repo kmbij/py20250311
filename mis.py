@@ -3,6 +3,3 @@ def mis2a():
 
 def mis2b():
     print("資管二B")
-
-mis2a()
-mis2b()
